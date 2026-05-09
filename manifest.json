@@ -1,6 +1,6 @@
 {
-  "name": "FitTracker",
-  "short_name": "FitTracker",
+  "name": "Ryel Tracker",
+  "short_name": "Ryel",
   "description": "Tracker personal de rutinas de ejercicio",
   "start_url": "./index.html",
   "display": "standalone",
